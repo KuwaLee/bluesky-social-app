@@ -5469,7 +5469,7 @@ msgstr "我們找不到任何與該標籤相關的結果。"
 
 #: src/screens/Messages/Conversation/index.tsx:90
 msgid "We couldn't load this conversation"
-msgstr "我們無法載入這段對話"
+msgstr "我們無法載入這個對話"
 
 #: src/screens/Deactivated.tsx:139
 msgid "We estimate {estimatedTime} until your account is ready."
