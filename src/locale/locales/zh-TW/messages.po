@@ -3327,11 +3327,11 @@ msgstr "跟隨 @{0} 的人"
 
 #: src/view/com/lightbox/Lightbox.tsx:66
 msgid "Permission to access camera roll is required."
-msgstr "需要相機權限。"
+msgstr "需要相簿權限。"
 
 #: src/view/com/lightbox/Lightbox.tsx:72
 msgid "Permission to access camera roll was denied. Please enable it in your system settings."
-msgstr "相機權限已遭拒絕，請在系統設定中啟用。"
+msgstr "相簿權限已遭拒絕，請在系統設定中啟用。"
 
 #: src/screens/Onboarding/index.tsx:42
 msgid "Pets"
