@@ -2308,7 +2308,7 @@ msgstr "邀請碼：{0} 個可用"
 
 #: src/view/com/modals/InviteCodes.tsx:170
 msgid "Invite codes: 1 available"
-msgstr "邀請碼：1個可用"
+msgstr "邀請碼：1 個可用"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:65
 msgid "It shows posts from the people you follow as they happen."
@@ -2448,7 +2448,7 @@ msgstr "按喜歡的用戶"
 
 #: src/view/com/notifications/FeedItem.tsx:168
 msgid "liked your custom feed"
-msgstr "已按喜歡您的自訂動態源"
+msgstr "對您的自訂動態源表示喜歡"
 
 #: src/view/com/notifications/FeedItem.tsx:153
 msgid "liked your post"
@@ -2672,7 +2672,7 @@ msgstr "內容管理工具"
 #: src/components/moderation/ModerationDetailsDialog.tsx:48
 #: src/lib/moderation/useModerationCauseDescription.ts:40
 msgid "Moderator has chosen to set a general warning on the content."
-msgstr "內容管理者已選擇對內容設定普通警告。"
+msgstr "內容管理者已將此內容標記為普通警告。"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:542
 msgid "More"
@@ -2936,7 +2936,7 @@ msgstr "無 DNS 控制台"
 
 #: src/components/dialogs/GifSelect.tsx:206
 msgid "No featured GIFs found. There may be an issue with Tenor."
-msgstr "未找到精選GIF，Tenor可能發生問題。"
+msgstr "未找到精選 GIF，Tenor 可能發生問題。"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:116
 msgid "No longer following {0}"
@@ -2944,7 +2944,7 @@ msgstr "不再跟隨 {0}"
 
 #: src/screens/Signup/StepHandle.tsx:115
 msgid "No longer than 253 characters"
-msgstr "不超過253個字符"
+msgstr "不超過 253 個字符"
 
 #: src/screens/Messages/List/index.tsx:204
 #: src/screens/Messages/List/index.tsx:271
@@ -2972,7 +2972,7 @@ msgstr "未找到「{query}」的結果"
 #: src/view/screens/Search/Search.tsx:289
 #: src/view/screens/Search/Search.tsx:328
 msgid "No results found for {query}"
-msgstr "未找到{query}的結果"
+msgstr "未找到 {query} 的結果"
 
 #: src/components/dialogs/GifSelect.tsx:204
 msgid "No search results found for \"{search}\"."
@@ -2980,7 +2980,7 @@ msgstr "未找到「{search}」的搜尋結果。"
 
 #: src/components/dms/NewChat.tsx:240
 msgid "No search results found for \"{searchText}\"."
-msgstr "未找到以下搜尋結果「{searchText}」"
+msgstr "未找到與「{searchText}」相關的搜尋結果"
 
 #: src/components/dialogs/EmbedConsent.tsx:105
 #: src/components/dialogs/EmbedConsent.tsx:112
@@ -4161,7 +4161,7 @@ msgstr "從下面選擇您感興趣的選項"
 
 #: src/view/screens/LanguageSettings.tsx:190
 msgid "Select your preferred language for translations in your feed."
-msgstr "選擇您在動態中翻譯的偏好的目標語言。"
+msgstr "選擇您在動態中翻譯的偏好目標語言。"
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:117
 msgid "Select your primary algorithmic feeds"
@@ -4406,7 +4406,7 @@ msgstr "在「Following」中顯示引用貼文"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:95
 msgid "Show re-posts in Following feed"
-msgstr "在跟「Following」動態源中顯示轉貼貼文"
+msgstr "在「Following」動態源中顯示轉貼貼文"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:117
 msgid "Show Replies"
@@ -4767,7 +4767,7 @@ msgstr "隱私政策已移動到 <0/>"
 
 #: src/view/screens/Support.tsx:36
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
-msgstr "支援表單已移至別處。如果需協助，請點擊 <0/>或前往 {HELP_DESK_URL} 與我們聯繫。"
+msgstr "支援表單已移至別處。如果需協助，請點擊 <0/> 或前往 {HELP_DESK_URL} 與我們聯繫。"
 
 #: src/view/screens/TermsOfService.tsx:33
 msgid "The Terms of Service have been moved to"
@@ -4897,7 +4897,7 @@ msgstr "此內容已被內容管理者隱藏。"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:24
 msgid "This content has received a general warning from moderators."
-msgstr "此內容已套用內容管理提供者所設定的一般警告。"
+msgstr "此內容已套用內容管理提供者所標記的普通警告。"
 
 #: src/components/dialogs/EmbedConsent.tsx:64
 msgid "This content is hosted by {0}. Do you want to enable external media?"
@@ -4940,11 +4940,11 @@ msgstr "這很重要，以防您將來需要更改電子郵件地址或重設密
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:127
 msgid "This label was applied by <0>{0}</0>."
-msgstr "此標記由 <0>{0}</0> 標記。"
+msgstr "此標記由 <0>{0}</0> 添加。"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
-msgstr "此標記由發布者標記。"
+msgstr "此標記由發布者添加。"
 
 #: src/screens/Profile/Sections/Labels.tsx:181
 msgid "This labeler hasn't declared what labels it publishes, and may not be active."
@@ -5043,7 +5043,7 @@ msgstr "若要關閉電子郵件雙重驗證，請驗證您的電子郵件地址
 
 #: src/components/dms/ConvoMenu.tsx:202
 msgid "To report a conversation, please report one of its messages via the conversation screen. This lets our moderators understand the context of your issue."
-msgstr "若要檢舉對話，請透過對話畫面檢舉其中一則訊息。這可以讓我們的內容管理者了解您問題的背景。"
+msgstr "若要檢舉對話，請透過對話畫面檢舉其中一則訊息。這可以讓我們的內容管理者了解問題的背景資訊。"
 
 #: src/components/ReportDialog/SelectLabelerView.tsx:33
 msgid "To whom would you like to send this report?"
@@ -5415,7 +5415,7 @@ msgstr "查看詳細資訊"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:133
 msgid "View details for reporting a copyright violation"
-msgstr "查看詳細資訊以檢舉侵權"
+msgstr "查看詳細資訊以檢舉侵犯版權"
 
 #: src/view/com/posts/FeedSlice.tsx:104
 msgid "View full thread"
@@ -5573,7 +5573,7 @@ msgstr "為什麼應該審查這個列表？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:62
 msgid "Why should this message be reviewed?"
-msgstr "為什麼應該審查則訊息？"
+msgstr "為什麼應該審查這則訊息？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:53
 msgid "Why should this post be reviewed?"
