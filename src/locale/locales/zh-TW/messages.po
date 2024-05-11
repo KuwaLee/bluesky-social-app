@@ -2944,7 +2944,7 @@ msgstr "不再跟隨 {0}"
 
 #: src/screens/Signup/StepHandle.tsx:115
 msgid "No longer than 253 characters"
-msgstr "不超過253個字符"
+msgstr "不超過 253 個字符"
 
 #: src/screens/Messages/List/index.tsx:204
 #: src/screens/Messages/List/index.tsx:271
