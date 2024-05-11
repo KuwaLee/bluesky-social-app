@@ -5415,7 +5415,7 @@ msgstr "查看詳細資訊"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:133
 msgid "View details for reporting a copyright violation"
-msgstr "查看詳細資訊以檢舉侵權"
+msgstr "查看詳細資訊以檢舉侵犯版權"
 
 #: src/view/com/posts/FeedSlice.tsx:104
 msgid "View full thread"
