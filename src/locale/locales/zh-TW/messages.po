@@ -2308,7 +2308,7 @@ msgstr "邀請碼：{0} 個可用"
 
 #: src/view/com/modals/InviteCodes.tsx:170
 msgid "Invite codes: 1 available"
-msgstr "邀請碼：1個可用"
+msgstr "邀請碼：1 個可用"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:65
 msgid "It shows posts from the people you follow as they happen."
