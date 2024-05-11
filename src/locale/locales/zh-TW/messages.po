@@ -2936,7 +2936,7 @@ msgstr "無 DNS 控制台"
 
 #: src/components/dialogs/GifSelect.tsx:206
 msgid "No featured GIFs found. There may be an issue with Tenor."
-msgstr "未找到精選GIF，Tenor可能發生問題。"
+msgstr "未找到精選 GIF，Tenor 可能發生問題。"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:116
 msgid "No longer following {0}"
