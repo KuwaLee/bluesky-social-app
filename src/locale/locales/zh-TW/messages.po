@@ -2672,7 +2672,7 @@ msgstr "內容管理工具"
 #: src/components/moderation/ModerationDetailsDialog.tsx:48
 #: src/lib/moderation/useModerationCauseDescription.ts:40
 msgid "Moderator has chosen to set a general warning on the content."
-msgstr "內容管理者已選擇對內容設定普通警告。"
+msgstr "內容管理者已將此內容標記為普通警告。"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:542
 msgid "More"
