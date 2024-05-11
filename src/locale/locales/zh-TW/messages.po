@@ -4406,7 +4406,7 @@ msgstr "在「Following」中顯示引用貼文"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:95
 msgid "Show re-posts in Following feed"
-msgstr "在跟「Following」動態源中顯示轉貼貼文"
+msgstr "在「Following」動態源中顯示轉貼貼文"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:117
 msgid "Show Replies"
