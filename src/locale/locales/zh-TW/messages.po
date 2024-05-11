@@ -4161,7 +4161,7 @@ msgstr "從下面選擇您感興趣的選項"
 
 #: src/view/screens/LanguageSettings.tsx:190
 msgid "Select your preferred language for translations in your feed."
-msgstr "選擇您在動態中翻譯的偏好的目標語言。"
+msgstr "選擇您在動態中翻譯的偏好目標語言。"
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:117
 msgid "Select your primary algorithmic feeds"
