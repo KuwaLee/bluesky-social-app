@@ -4940,7 +4940,7 @@ msgstr "這很重要，以防您將來需要更改電子郵件地址或重設密
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:127
 msgid "This label was applied by <0>{0}</0>."
-msgstr "此標記由 <0>{0}</0> 標記。"
+msgstr "此標記由 <0>{0}</0> 添加。"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
