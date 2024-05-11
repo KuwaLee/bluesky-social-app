@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 22:01+0800\n"
+"POT-Creation-Date: 2024-05-11 22:11+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -830,7 +830,7 @@ msgstr "點擊這裡"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:46
 msgid "Click here to add one."
-msgstr "點擊這裡以添加一個"
+msgstr "點擊這裡以添加一個。"
 
 #: src/components/TagMenu/index.web.tsx:138
 msgid "Click here to open tag menu for {tag}"
@@ -3040,7 +3040,7 @@ msgstr "未找到「{search}」的搜尋結果。"
 
 #: src/components/dms/NewChat.tsx:240
 msgid "No search results found for \"{searchText}\"."
-msgstr "未找到與「{searchText}」相關的搜尋結果"
+msgstr "未找到與「{searchText}」相關的搜尋結果。"
 
 #: src/components/dialogs/EmbedConsent.tsx:105
 #: src/components/dialogs/EmbedConsent.tsx:112
