@@ -4944,7 +4944,7 @@ msgstr "此標記由 <0>{0}</0> 添加。"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
-msgstr "此標記由發布者標記。"
+msgstr "此標記由發布者添加。"
 
 #: src/screens/Profile/Sections/Labels.tsx:181
 msgid "This labeler hasn't declared what labels it publishes, and may not be active."
