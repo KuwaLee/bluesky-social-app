@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 20:43+0800\n"
+"POT-Creation-Date: 2024-05-11 20:49+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2033,11 +2033,11 @@ msgstr "前往下一步"
 
 #: src/components/dms/ConvoMenu.tsx:133
 msgid "Go to profile"
-msgstr "轉跳至個人頁面"
+msgstr "前往個人頁面"
 
 #: src/components/dms/ConvoMenu.tsx:130
 msgid "Go to user's profile"
-msgstr "轉跳至用戶個人頁面"
+msgstr "前往用戶個人頁面"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:46
 msgid "Graphic Media"
@@ -5710,7 +5710,7 @@ msgstr "您還沒有訊息。開始與其他人對話！"
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:134
 msgid "You have not blocked any accounts yet. To block an account, go to their profile and select \"Block account\" from the menu on their account."
-msgstr "您還沒有封鎖任何帳號。要封鎖帳號，請轉到其個人資料並在其帳號上的選單中選擇「封鎖帳號」。"
+msgstr "您還沒有封鎖任何帳號。要封鎖帳號，請前往其個人資料並在其帳號上的選單中選擇「封鎖帳號」。"
 
 #: src/view/screens/AppPasswords.tsx:89
 msgid "You have not created any app passwords yet. You can create one by pressing the button below."
@@ -5718,7 +5718,7 @@ msgstr "您還沒有建立任何應用程式專用密碼，如您想建立一個
 
 #: src/view/screens/ModerationMutedAccounts.tsx:133
 msgid "You have not muted any accounts yet. To mute an account, go to their profile and select \"Mute account\" from the menu on their account."
-msgstr "您還沒有靜音任何帳號。要靜音帳號，請轉到其個人資料並在其帳號上的選單中選擇「靜音帳號」。"
+msgstr "您還沒有靜音任何帳號。要靜音帳號，請前往其個人資料並在其帳號上的選單中選擇「靜音帳號」。"
 
 #: src/components/dialogs/MutedWords.tsx:249
 msgid "You haven't muted any words or tags yet"
