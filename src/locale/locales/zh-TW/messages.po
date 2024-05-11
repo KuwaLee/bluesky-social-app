@@ -2980,7 +2980,7 @@ msgstr "未找到「{search}」的搜尋結果。"
 
 #: src/components/dms/NewChat.tsx:240
 msgid "No search results found for \"{searchText}\"."
-msgstr "未找到以下搜尋結果「{searchText}」"
+msgstr "未找到與「{searchText}」相關的搜尋結果"
 
 #: src/components/dialogs/EmbedConsent.tsx:105
 #: src/components/dialogs/EmbedConsent.tsx:112
