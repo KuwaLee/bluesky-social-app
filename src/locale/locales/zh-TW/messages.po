@@ -2448,7 +2448,7 @@ msgstr "按喜歡的用戶"
 
 #: src/view/com/notifications/FeedItem.tsx:168
 msgid "liked your custom feed"
-msgstr "已按喜歡您的自訂動態源"
+msgstr "對您的自訂動態源表示喜歡"
 
 #: src/view/com/notifications/FeedItem.tsx:153
 msgid "liked your post"
