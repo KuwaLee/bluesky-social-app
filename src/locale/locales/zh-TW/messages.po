@@ -2972,7 +2972,7 @@ msgstr "未找到「{query}」的結果"
 #: src/view/screens/Search/Search.tsx:289
 #: src/view/screens/Search/Search.tsx:328
 msgid "No results found for {query}"
-msgstr "未找到{query}的結果"
+msgstr "未找到 {query} 的結果"
 
 #: src/components/dialogs/GifSelect.tsx:204
 msgid "No search results found for \"{search}\"."
