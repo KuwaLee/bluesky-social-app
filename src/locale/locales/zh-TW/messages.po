@@ -5573,7 +5573,7 @@ msgstr "為什麼應該審查這個列表？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:62
 msgid "Why should this message be reviewed?"
-msgstr "為什麼應該審查則訊息？"
+msgstr "為什麼應該審查這則訊息？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:53
 msgid "Why should this post be reviewed?"
