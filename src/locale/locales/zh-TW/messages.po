@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 20:52+0800\n"
+"POT-Creation-Date: 2024-05-11 22:01+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -73,7 +73,7 @@ msgstr "{0, plural, one {撤回喜歡（# 個喜歡）} other {撤回喜歡（# 
 
 #: src/view/screens/ProfileList.tsx:286
 msgid "{0} your feeds"
-msgstr ""
+msgstr "你的 {0} 個動態源"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -247,11 +247,11 @@ msgstr "新增靜音文字及標籤"
 
 #: src/screens/Home/NoFeedsPinned.tsx:112
 msgid "Add recommended feeds"
-msgstr ""
+msgstr "添加推薦的動態源"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:43
 msgid "Add the default feed of only people you follow"
-msgstr ""
+msgstr "添加預設的「Following」動態源，他只會顯示你跟隨的人"
 
 #: src/view/com/modals/ChangeHandle.tsx:410
 msgid "Add the following DNS record to your domain:"
@@ -424,7 +424,7 @@ msgstr "外觀"
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:106
 msgid "Apply default recommended feeds"
-msgstr ""
+msgstr "使用預設推薦的動態源"
 
 #: src/view/screens/AppPasswords.tsx:265
 msgid "Are you sure you want to delete the app password \"{name}\"?"
@@ -600,7 +600,7 @@ msgstr "書籍"
 #: src/screens/Home/NoFeedsPinned.tsx:116
 #: src/screens/Home/NoFeedsPinned.tsx:123
 msgid "Browse other feeds"
-msgstr ""
+msgstr "瀏覽其他動態源"
 
 #: src/view/com/auth/SplashScreen.web.tsx:151
 msgid "Business"
@@ -785,7 +785,7 @@ msgstr "選擇提供您自定義動態的演算法。"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:107
 msgid "Choose this color as your avatar"
-msgstr ""
+msgstr "選擇這個顏色作為你的頭像"
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:104
 msgid "Choose your main feeds"
@@ -830,7 +830,7 @@ msgstr "點擊這裡"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:46
 msgid "Click here to add one."
-msgstr ""
+msgstr "點擊這裡以添加一個"
 
 #: src/components/TagMenu/index.web.tsx:138
 msgid "Click here to open tag menu for {tag}"
@@ -1170,7 +1170,7 @@ msgstr "建立一個帳號"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:267
 msgid "Create an avatar instead"
-msgstr ""
+msgstr "或是建立一個頭像"
 
 #: src/view/com/modals/AddAppPasswords.tsx:227
 msgid "Create App Password"
@@ -2027,7 +2027,7 @@ msgstr "開始"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:209
 msgid "Give your profile a face"
-msgstr ""
+msgstr "為您的個人檔案增添新顏"
 
 #: src/lib/moderation/useReportOptions.ts:38
 msgid "Glaring violations of law or terms of service"
@@ -2118,7 +2118,7 @@ msgstr "幫助"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:212
 msgid "Help people know you're not a bot by uploading a picture or creating an avatar."
-msgstr ""
+msgstr "透過上傳圖片或創建頭像來幫助人們知道您不是機器人。"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:140
 msgid "Here are some accounts for you to follow"
@@ -2599,15 +2599,15 @@ msgstr "看起來像是 XXXXX-XXXXX"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:39
 msgid "Looks like you haven't saved any feeds! Use our recommendations or browse more below."
-msgstr ""
+msgstr "您似乎尚未儲存任何動態源！使用我們的建議或瀏覽下面的更多內容。"
 
 #: src/screens/Home/NoFeedsPinned.tsx:96
 msgid "Looks like you unpinned all your feeds. But don't worry, you can add some below 😄"
-msgstr ""
+msgstr "看起來您已取消釘選所有動態源，但不用擔心，您可以在下面添加一些😄"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:38
 msgid "Looks like you're missing a following feed."
-msgstr ""
+msgstr "您看起來少了一個「Following」動態源。"
 
 #: src/view/com/modals/LinkWarning.tsx:79
 msgid "Make sure this is where you intend to go!"
@@ -3138,7 +3138,7 @@ msgstr "至少有一張圖片缺失了替代文字。"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:107
 msgid "Only .jpg and .png files are supported"
-msgstr ""
+msgstr "僅支援 .jpg 和 .png 文件"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:100
 msgid "Only {0} can reply."
@@ -3164,7 +3164,7 @@ msgstr "開啟"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:261
 msgid "Open avatar creator"
-msgstr ""
+msgstr "開啟頭像創建器"
 
 #: src/view/com/composer/Composer.tsx:555
 #: src/view/com/composer/Composer.tsx:556
@@ -3784,7 +3784,7 @@ msgstr "刪除已轉貼貼文"
 #: src/view/com/posts/FeedShutdownMsg.tsx:144
 #: src/view/com/posts/FeedShutdownMsg.tsx:148
 msgid "Replace with Discover"
-msgstr ""
+msgstr "用「Discover」動態源取代"
 
 #: src/view/screens/Profile.tsx:194
 msgid "Replies"
@@ -4176,7 +4176,7 @@ msgstr "選擇 {item}"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:67
 msgid "Select a color"
-msgstr ""
+msgstr "選擇一個顏色"
 
 #: src/screens/Login/ChooseAccountForm.tsx:85
 msgid "Select account"
@@ -4184,11 +4184,11 @@ msgstr "選擇帳號"
 
 #: src/screens/Onboarding/StepProfile/AvatarCircle.tsx:66
 msgid "Select an avatar"
-msgstr ""
+msgstr "選擇一個頭像"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:65
 msgid "Select an emoji"
-msgstr ""
+msgstr "選擇一個 emoji"
 
 #: src/screens/Login/index.tsx:120
 msgid "Select from an existing account"
@@ -4220,7 +4220,7 @@ msgstr "在下面選擇一些帳號來跟隨"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:83
 msgid "Select the {emojiName} emoji as your avatar"
-msgstr ""
+msgstr "選擇 {emojiName} emoji 作為你的頭像"
 
 #: src/components/ReportDialog/SubmitView.tsx:135
 msgid "Select the moderation service(s) to report to"
@@ -4841,7 +4841,7 @@ msgstr "版權政策已移動到 <0/>"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:81
 msgid "The feed has been replaced with Discover."
-msgstr ""
+msgstr "動態源已由「Discover」取代。"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:48
 msgid "The following labels were applied to your account."
@@ -5034,7 +5034,7 @@ msgstr "這個動態源是空的！您或許需要先跟隨更多的人或檢查
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:115
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
-msgstr ""
+msgstr "此動態源已不再上線。取而代之的是<0>「Discover」動態源</0>。"
 
 #: src/components/dialogs/BirthDateSettings.tsx:41
 msgid "This information is not shared with other users."
@@ -5339,7 +5339,7 @@ msgstr "更新中…"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:265
 msgid "Upload a photo instead"
-msgstr ""
+msgstr "或是上傳圖片"
 
 #: src/view/com/modals/ChangeHandle.tsx:448
 msgid "Upload a text file to:"
@@ -5392,7 +5392,7 @@ msgstr "使用我的預設瀏覽器"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:53
 msgid "Use recommended"
-msgstr ""
+msgstr "使用推薦"
 
 #: src/view/com/modals/ChangeHandle.tsx:394
 msgid "Use the DNS panel"
@@ -5675,7 +5675,7 @@ msgstr "誰可以回覆"
 
 #: src/screens/Home/NoFeedsPinned.tsx:92
 msgid "Whoops!"
-msgstr ""
+msgstr "哎呀！"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:46
 msgid "Why should this content be reviewed?"
