@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-12 01:18+0800\n"
+"POT-Creation-Date: 2024-05-12 09:56+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,11 +21,11 @@ msgstr "（沒有電子郵件）"
 msgid "{0, plural, one {{formattedCount} other} other {{formattedCount} others}}"
 msgstr "{0, plural, one {其他 {formattedCount} 個人} other {其他 {formattedCount} 個人}}"
 
-#: src/components/moderation/LabelsOnMe.tsx:57
+#: src/components/moderation/LabelsOnMe.tsx:55
 msgid "{0, plural, one {# label has been placed on this account} other {# labels has been placed on this account}}"
 msgstr "{0, plural, one {該帳戶有 # 個標籤} other {該帳戶有 # 個標籤}}"
 
-#: src/components/moderation/LabelsOnMe.tsx:63
+#: src/components/moderation/LabelsOnMe.tsx:61
 msgid "{0, plural, one {# label has been placed on this content} other {# labels has been placed on this content}}"
 msgstr "{0, plural, one {該帳戶有 # 個標籤} other {該帳戶有 # 個標籤}}"
 
@@ -404,16 +404,16 @@ msgstr "應用程式專用密碼設定"
 msgid "App Passwords"
 msgstr "應用程式專用密碼"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:133
-#: src/components/moderation/LabelsOnMeDialog.tsx:136
+#: src/components/moderation/LabelsOnMeDialog.tsx:150
+#: src/components/moderation/LabelsOnMeDialog.tsx:153
 msgid "Appeal"
 msgstr "申訴"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:202
+#: src/components/moderation/LabelsOnMeDialog.tsx:228
 msgid "Appeal \"{0}\" label"
 msgstr "申訴「{0}」標記"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:193
+#: src/components/moderation/LabelsOnMeDialog.tsx:219
 msgid "Appeal submitted"
 msgstr "已提交申訴"
 
@@ -466,8 +466,8 @@ msgstr "藝術作品或非情色的裸露。"
 msgid "At least 3 characters"
 msgstr "至少 3 個字元"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:247
-#: src/components/moderation/LabelsOnMeDialog.tsx:248
+#: src/components/moderation/LabelsOnMeDialog.tsx:273
+#: src/components/moderation/LabelsOnMeDialog.tsx:274
 #: src/screens/Login/ChooseAccountForm.tsx:98
 #: src/screens/Login/ChooseAccountForm.tsx:103
 #: src/screens/Login/ForgotPasswordForm.tsx:129
@@ -779,7 +779,7 @@ msgstr "選擇「所有人」或「沒有人」"
 msgid "Choose Service"
 msgstr "選擇服務"
 
-#: src/screens/Onboarding/StepFinished.tsx:213
+#: src/screens/Onboarding/StepFinished.tsx:228
 msgid "Choose the algorithms that power your custom feeds."
 msgstr "選擇提供您自定義動態的演算法。"
 
@@ -918,7 +918,7 @@ msgstr "漫畫"
 msgid "Community Guidelines"
 msgstr "社群守則"
 
-#: src/screens/Onboarding/StepFinished.tsx:226
+#: src/screens/Onboarding/StepFinished.tsx:241
 msgid "Complete onboarding and start using your account"
 msgstr "完成初始設定並開始使用您的帳號"
 
@@ -1846,7 +1846,7 @@ msgstr "檔案內容"
 msgid "Filter from feeds"
 msgstr "動態源中的篩選"
 
-#: src/screens/Onboarding/StepFinished.tsx:229
+#: src/screens/Onboarding/StepFinished.tsx:244
 msgid "Finalizing"
 msgstr "正在完成"
 
@@ -1872,7 +1872,7 @@ msgstr "微調討論串。"
 msgid "Fitness"
 msgstr "健康"
 
-#: src/screens/Onboarding/StepFinished.tsx:209
+#: src/screens/Onboarding/StepFinished.tsx:224
 msgid "Flexible"
 msgstr "靈活"
 
@@ -2386,11 +2386,11 @@ msgstr "標記"
 msgid "Labels are annotations on users and content. They can be used to hide, warn, and categorize the network."
 msgstr "標記是對用戶和內容的標註，可用於隱藏、警告和對網路進行分類。"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:62
+#: src/components/moderation/LabelsOnMeDialog.tsx:77
 msgid "Labels on your account"
 msgstr "您帳戶上的標記"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:64
+#: src/components/moderation/LabelsOnMeDialog.tsx:79
 msgid "Labels on your content"
 msgstr "您內容上的標記"
 
@@ -2469,7 +2469,7 @@ msgstr "遺留資料已清除，您需要立即重新啟動應用程式。"
 msgid "Let's get your password reset!"
 msgstr "讓我們來重設您的密碼吧！"
 
-#: src/screens/Onboarding/StepFinished.tsx:229
+#: src/screens/Onboarding/StepFinished.tsx:244
 msgid "Let's go!"
 msgstr "讓我們開始吧！"
 
@@ -2893,7 +2893,7 @@ msgstr "切換到您的個人檔案"
 msgid "Need to report a copyright violation?"
 msgstr "需要檢舉侵權嗎？"
 
-#: src/screens/Onboarding/StepFinished.tsx:197
+#: src/screens/Onboarding/StepFinished.tsx:212
 msgid "Never lose access to your followers or data."
 msgstr "永遠不會失去對您的跟隨者或資料的存取權。"
 
@@ -3158,7 +3158,7 @@ msgstr "糟糕，發生了錯誤！"
 msgid "Oops!"
 msgstr "糟糕！"
 
-#: src/screens/Onboarding/StepFinished.tsx:193
+#: src/screens/Onboarding/StepFinished.tsx:208
 msgid "Open"
 msgstr "開啟"
 
@@ -3479,7 +3479,7 @@ msgstr "請輸入您的電子郵件。"
 msgid "Please enter your password as well:"
 msgstr "請輸入您的密碼："
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:222
+#: src/components/moderation/LabelsOnMeDialog.tsx:248
 msgid "Please explain why you think this label was incorrectly applied by {0}"
 msgstr "請解釋您認為 {0} 不正確套用此標記的原因"
 
@@ -3641,7 +3641,7 @@ msgstr "個人檔案已更新"
 msgid "Protect your account by verifying your email."
 msgstr "通過驗證電子郵件地址來保護您的帳號。"
 
-#: src/screens/Onboarding/StepFinished.tsx:179
+#: src/screens/Onboarding/StepFinished.tsx:194
 msgid "Public"
 msgstr "公開內容"
 
@@ -3713,8 +3713,8 @@ msgid "Remove Banner"
 msgstr "刪除橫幅"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:169
-#: src/view/com/posts/FeedShutdownMsg.tsx:131
-#: src/view/com/posts/FeedShutdownMsg.tsx:135
+#: src/view/com/posts/FeedShutdownMsg.tsx:113
+#: src/view/com/posts/FeedShutdownMsg.tsx:117
 msgid "Remove feed"
 msgstr "刪除動態源"
 
@@ -3767,7 +3767,7 @@ msgstr "從列表中刪除"
 msgid "Removed from my feeds"
 msgstr "從我的動態源中刪除"
 
-#: src/view/com/posts/FeedShutdownMsg.tsx:47
+#: src/view/com/posts/FeedShutdownMsg.tsx:44
 #: src/view/screens/ProfileFeed.tsx:191
 #: src/view/screens/ProfileList.tsx:315
 msgid "Removed from your feeds"
@@ -3781,8 +3781,8 @@ msgstr "從 {0} 中刪除預設縮圖"
 msgid "Removes quoted post"
 msgstr "刪除已轉貼貼文"
 
-#: src/view/com/posts/FeedShutdownMsg.tsx:144
-#: src/view/com/posts/FeedShutdownMsg.tsx:148
+#: src/view/com/posts/FeedShutdownMsg.tsx:126
+#: src/view/com/posts/FeedShutdownMsg.tsx:130
 msgid "Replace with Discover"
 msgstr "用「Discover」動態源取代"
 
@@ -4656,7 +4656,7 @@ msgstr "排序回覆"
 msgid "Sort replies to the same post by:"
 msgstr "對同一貼文的回覆進行排序："
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:146
+#: src/components/moderation/LabelsOnMeDialog.tsx:168
 msgid "Source:"
 msgstr "來源："
 
@@ -4698,8 +4698,8 @@ msgstr "已清除儲存資料，您需要立即重啟應用程式。"
 msgid "Storybook"
 msgstr "故事書"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:256
-#: src/components/moderation/LabelsOnMeDialog.tsx:257
+#: src/components/moderation/LabelsOnMeDialog.tsx:282
+#: src/components/moderation/LabelsOnMeDialog.tsx:283
 msgid "Submit"
 msgstr "提交"
 
@@ -4809,7 +4809,7 @@ msgstr "所使用的文字違反了社群標準"
 msgid "text"
 msgstr "文字"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:220
+#: src/components/moderation/LabelsOnMeDialog.tsx:246
 msgid "Text input field"
 msgstr "文字輸入框"
 
@@ -4839,15 +4839,15 @@ msgstr "社群準則已移動到 <0/>"
 msgid "The Copyright Policy has been moved to <0/>"
 msgstr "版權政策已移動到 <0/>"
 
-#: src/view/com/posts/FeedShutdownMsg.tsx:81
+#: src/view/com/posts/FeedShutdownMsg.tsx:66
 msgid "The feed has been replaced with Discover."
 msgstr "動態源已由「Discover」取代。"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:48
+#: src/components/moderation/LabelsOnMeDialog.tsx:63
 msgid "The following labels were applied to your account."
 msgstr "以下標記已套用到您的帳戶。"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:49
+#: src/components/moderation/LabelsOnMeDialog.tsx:64
 msgid "The following labels were applied to your content."
 msgstr "以下標記已套用到您的內容。"
 
@@ -4886,7 +4886,7 @@ msgid "There was an an issue removing this feed. Please check your internet conn
 msgstr "刪除動態源時出現問題，請檢查您的網路連線並重試。"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:52
-#: src/view/com/posts/FeedShutdownMsg.tsx:85
+#: src/view/com/posts/FeedShutdownMsg.tsx:70
 #: src/view/screens/ProfileFeed.tsx:205
 msgid "There was an an issue updating your feeds, please check your internet connection and try again."
 msgstr "更新動態時出現問題，請檢查您的網路連線並重試。"
@@ -4985,7 +4985,7 @@ msgstr "{screenDescription} 已被標記："
 msgid "This account has requested that users sign in to view their profile."
 msgstr "此帳號要求使用者登入後才能查看其個人資料。"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:205
+#: src/components/moderation/LabelsOnMeDialog.tsx:231
 msgid "This appeal will be sent to <0>{0}</0>."
 msgstr "此申訴將被提交至 <0>{0}</0>。"
 
@@ -5032,7 +5032,7 @@ msgstr "這裡是空的！"
 msgid "This feed is empty! You may need to follow more users or tune your language settings."
 msgstr "這個動態源是空的！您或許需要先跟隨更多的人或檢查您的語言設定。"
 
-#: src/view/com/posts/FeedShutdownMsg.tsx:115
+#: src/view/com/posts/FeedShutdownMsg.tsx:97
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
 msgstr "此動態源已不再上線。取而代之的是<0>「Discover」動態源</0>。"
 
@@ -5051,6 +5051,10 @@ msgstr "此標記由 <0>{0}</0> 添加。"
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
 msgstr "此標記由發布者添加。"
+
+#: src/components/moderation/LabelsOnMeDialog.tsx:165
+msgid "This label was applied by you"
+msgstr "此標記由您添加"
 
 #: src/screens/Profile/Sections/Labels.tsx:181
 msgid "This labeler hasn't declared what labels it publishes, and may not be active."
@@ -5535,7 +5539,7 @@ msgstr "查看詳細資訊以檢舉侵犯版權"
 msgid "View full thread"
 msgstr "查看整個對話串"
 
-#: src/components/moderation/LabelsOnMe.tsx:50
+#: src/components/moderation/LabelsOnMe.tsx:48
 msgid "View information about these labels"
 msgstr "查看有關這些標記的資訊"
 
@@ -5589,7 +5593,7 @@ msgstr "我們無法載入這個對話"
 msgid "We estimate {estimatedTime} until your account is ready."
 msgstr "我們估計還需要 {estimatedTime} 才能準備好您的帳號。"
 
-#: src/screens/Onboarding/StepFinished.tsx:171
+#: src/screens/Onboarding/StepFinished.tsx:186
 msgid "We hope you have a wonderful time. Remember, Bluesky is:"
 msgstr "我們希望您在此度過愉快的時光。請記住，Bluesky 是："
 
@@ -5842,7 +5846,11 @@ msgstr "您還沒有靜音任何帳號。要靜音帳號，請前往其個人資
 msgid "You haven't muted any words or tags yet"
 msgstr "您還沒有隱藏任何文字或標籤"
 
-#: src/components/moderation/LabelsOnMeDialog.tsx:68
+#: src/components/moderation/LabelsOnMeDialog.tsx:84
+msgid "You may appeal non-self labels if you feel they were placed in error."
+msgstr "如果您認為非標記的放置有誤，且標記並非由您添加，您可以提出申訴。"
+
+#: src/components/moderation/LabelsOnMeDialog.tsx:89
 msgid "You may appeal these labels if you feel they were placed in error."
 msgstr "如果您覺得這些標籤是錯誤的，您可以申訴這些標籤。"
 
@@ -5884,7 +5892,7 @@ msgstr "盡在您的掌控"
 msgid "You're in line"
 msgstr "輪到您了"
 
-#: src/screens/Onboarding/StepFinished.tsx:168
+#: src/screens/Onboarding/StepFinished.tsx:183
 msgid "You're ready to go!"
 msgstr "您已設定完成！"
 
@@ -5959,7 +5967,7 @@ msgstr "您的密碼已成功更改！"
 msgid "Your post has been published"
 msgstr "您的貼文已發佈"
 
-#: src/screens/Onboarding/StepFinished.tsx:183
+#: src/screens/Onboarding/StepFinished.tsx:198
 msgid "Your posts, likes, and blocks are public. Mutes are private."
 msgstr "您的貼文、按喜歡和封鎖是公開可見的，而靜音是私人的。"
 
