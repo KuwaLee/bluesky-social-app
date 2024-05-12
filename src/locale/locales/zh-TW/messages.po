@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-12 11:44+0800\n"
+"POT-Creation-Date: 2024-05-12 11:47+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3383,7 +3383,7 @@ msgstr "暫停"
 
 #: src/view/screens/Search/Search.tsx:379
 msgid "People"
-msgstr "人物"
+msgstr "用戶"
 
 #: src/Navigation.tsx:171
 msgid "People followed by @{0}"
