@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-12 11:34+0800\n"
+"POT-Creation-Date: 2024-05-12 11:44+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1862,7 +1862,7 @@ msgstr "在 Bluesky 上尋找貼文和用戶"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:110
 msgid "Fine-tune the content you see on your Following feed."
-msgstr "對「Following」動態源中的內容進行微調。"
+msgstr "對「Following」動態源中的內容進行微調，以下選項只對「Following」動態源起作用。"
 
 #: src/view/screens/PreferencesThreads.tsx:60
 msgid "Fine-tune the discussion threads."
